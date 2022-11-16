@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/AymaneAchfenna1)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://mobile.twitter.com/reda arraji)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/reda arraji)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/reda_ar99)
 
 ### Glad to see you here! &nbsp;
@@ -20,7 +20,7 @@ I'm reda arraji a computer science student at UM6P - 1337 MED (42 Network). I'm 
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/redavio9).
-- 👾 &nbsp; Fun fact: NULL is Not Zero in C.
+- 👾 &nbsp; Fun fact: there isn't a data type called STRING.
 - 📫 &nbsp; How to reach me: arraji.re@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](CV).
 
