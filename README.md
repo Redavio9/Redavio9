@@ -43,6 +43,7 @@ I'm reda arraji a computer science student at UM6P - 1337 MED (42 Network). I'm 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="45" height="44"/>
 </div>
 
 
