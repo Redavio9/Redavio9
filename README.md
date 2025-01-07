@@ -18,11 +18,11 @@ I'm reda arraji a computer science student at UM6P - 1337 MED (42 Network). I'm 
   
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/redavio9).
-- 👾 &nbsp; Fun fact: there isn't a data type called STRING.
-- 📫 &nbsp; How to reach me: arraji.re@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](CV).
+🚀   I’m currently learning Full Stack Development and expanding my skills in DevOps.
+👨🏻‍💻   Most of my projects are available on GitHub.
+👾   Fun fact: There’s no primitive data type called "STRING" in most programming languages—it's usually "String" or similar.
+📫   How to reach me: redaarraji.pr@gmail.com | My portfolio: https://www.rarraji.me/
+
 
 
 ### My Absolute Favorites:
